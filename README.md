@@ -1,13 +1,13 @@
 ## Hi there 👋, diabetes-prediction
-##Diabetic Prediction System
-###Overview
+### Diabetic Prediction System
+### Overview
 This Diabetic Prediction System utilizes machine learning to predict whether a patient is likely to develop diabetes based on their medical history and diagnostic measurements. The project aims to assist healthcare professionals in early diagnosis and preventive care management, leveraging historical data and predictive analytics to identify at-risk individuals.
 
-###Dataset
+### Dataset
 The dataset used in this project is the Pima Indians Diabetes Database, which is publicly available and includes diagnostic measurements from 768 female patients of Pima Indian heritage. The dataset features several medical predictor variables including the number of pregnancies, BMI, insulin level, age, glucose concentration, blood pressure, skin thickness, and diabetes pedigree function.
 
-###Features
-✅ Pregnancies: Number of times pregnant
+### Features
+✅ Pregnancies: Number of times pregnant \n
 ✅ Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test
 ✅ BloodPressure: Diastolic blood pressure (mm Hg)
 ✅ SkinThickness: Triceps skin fold thickness (mm)
